@@ -1,4 +1,4 @@
-pragma solidity ^0.4.24;
+pragma solidity >=0.4.22 <0.9.0;
 
 library MessagesAndCodes {
     string public constant EMPTY_MESSAGE_ERROR = "Message cannot be empty string";

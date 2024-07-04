@@ -1,4 +1,4 @@
-pragma solidity ^0.4.24;
+pragma solidity >=0.4.22 <0.9.0;
 import "zeppelin-solidity/contracts/token/ERC20/BasicToken.sol";
 
 /// @title Mock token contract using Open Zepplein's BasicToken

@@ -26,7 +26,7 @@
     "nodemon": "^1.18.3"
   },
   "dependencies": {
-    "truffle": "^4.1.13",
+    "truffle": "^5.0.0",
     "zeppelin-solidity": "^1.11.0"
   }
 }

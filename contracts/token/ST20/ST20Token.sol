@@ -1,4 +1,4 @@
-pragma solidity ^0.4.24;
+pragma solidity >=0.4.22 <0.9.0;
 import "./IST20.sol";
 import "../ERC1404/SimpleRestrictedToken.sol";
 import "zeppelin-solidity/contracts/math/SafeMath.sol";

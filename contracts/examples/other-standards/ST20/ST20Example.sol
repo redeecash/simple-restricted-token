@@ -1,4 +1,4 @@
-pragma solidity ^0.4.24;
+pragma solidity >=0.4.22 <0.9.0;
 import "../../../token/ST20/ST20Token.sol"; 
 import "../../../token/ERC1404/MessagedERC1404.sol";
  

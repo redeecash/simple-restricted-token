@@ -1,4 +1,4 @@
-pragma solidity ^0.4.24;
+pragma solidity >=0.4.22 <0.9.0;
 import "./ERC1404.sol";
 import "zeppelin-solidity/contracts/token/ERC20/StandardToken.sol";
 

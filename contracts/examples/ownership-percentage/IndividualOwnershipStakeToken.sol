@@ -1,4 +1,4 @@
-pragma solidity ^0.4.24;
+pragma solidity >=0.4.22 <0.9.0;
 import "./MaxOwnershipStakeToken.sol";
 
 /// @title ERC-1404 that limits the ownership stake individual accounts may hold
